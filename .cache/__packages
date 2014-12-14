@@ -1,0 +1,11 @@
+base
+shiny
+dplyr
+stylo
+stringr
+devtools
+shinyapps
+knitr
+slidify
+bitops
+RCurl
